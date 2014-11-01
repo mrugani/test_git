@@ -1,4 +1,4 @@
 test_git
 ========
 
-This is test repository.
+This is test repository. Test repository.
